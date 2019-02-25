@@ -4,8 +4,7 @@ class task5{
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Введите число ");
-        String m = scan.nextLine();
-        int s = Integer.parseInt(m);
+        int s = scan.nextInt();
         System.out.println(s+"x1="+1*+s);
         System.out.println(s+"x2="+2*+s);
         System.out.println(s+"x3="+3*+s);
