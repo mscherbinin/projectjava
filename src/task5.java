@@ -6,14 +6,14 @@ class task5{
         System.out.println("Введите число ");
         String m = scan.nextLine();
         int s = Integer.parseInt(m);
-        System.out.println("1x"+s+"="+1*+s);
-        System.out.println("2x"+s+"="+2*+s);
-        System.out.println("3x"+s+"="+3*+s);
-        System.out.println("4x"+s+"="+4*+s);
-        System.out.println("5x"+s+"="+5*+s);
-        System.out.println("6x"+s+"="+6*+s);
-        System.out.println("7x"+s+"="+7*+s);
-        System.out.println("8x"+s+"="+8*+s);
-        System.out.println("9x"+s+"="+9*+s);
-        System.out.println("10x"+s+"="+10*+s);
+        System.out.println(s+"x1="+1*+s);
+        System.out.println(s+"x2="+2*+s);
+        System.out.println(s+"x3="+3*+s);
+        System.out.println(s+"x4="+4*+s);
+        System.out.println(s+"x5="+5*+s);
+        System.out.println(s+"x6="+6*+s);
+        System.out.println(s+"x7="+7*+s);
+        System.out.println(s+"x8="+8*+s);
+        System.out.println(s+"x9="+9*+s);
+        System.out.println(s+"x10="+10*+s);
     }}
